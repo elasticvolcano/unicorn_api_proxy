@@ -1,0 +1,6 @@
+aws-xray-sdk>=1.1.1
+boto3>=1.7.45
+Flask>=1.0.2
+Flask-RESTful>=0.3.6
+requests>=2.19.1
+watchtower>=0.5.3
